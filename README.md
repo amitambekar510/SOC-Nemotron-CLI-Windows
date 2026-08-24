@@ -82,6 +82,8 @@ opencode "Read test.log, extract the IP, and tell me what to check next"
 
 ## 📖 About This Project
 
+> **Cross-Reference:** This is the **Windows edition** of the SOC-Nemotron-CLI project. The original macOS-tested guide is available at: [`SOC-Nemotron-CLI`](https://github.com/amitambekar510/SOC-Nemotron-CLI)
+
 <p align="center">
   <img src="assets/project-overview.png" alt="Project overview: OpenCode CLI + Nemotron 3 Ultra for Windows SOC operations" width="80%" />
 </p>
